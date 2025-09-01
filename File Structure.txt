@@ -1,0 +1,13 @@
+corridor-risk-app/
+├─ app.py
+├─ requirements.txt
+├─ .env.example
+├─ README.md
+└─ services/
+   ├─ __init__.py
+   ├─ utils.py
+   ├─ news.py
+   ├─ nlp.py
+   ├─ scoring.py
+   ├─ openai_helpers.py
+   └─ pdf_export.py
